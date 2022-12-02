@@ -35,7 +35,7 @@
                         <mxPoint x="267" y="400" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="150" style="edgeStyle=none;html=1;" edge="1" parent="1" source="139" target="148">
+                <mxCell id="150" style="edgeStyle=none;html=1;" parent="1" source="139" target="148" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="139" value="if mark == 4+" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
@@ -58,39 +58,39 @@
                 <mxCell id="147" style="edgeStyle=none;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontColor=#F0F0F0;" parent="1" source="138" target="138" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="151" style="edgeStyle=none;html=1;" edge="1" parent="1" source="148" target="149">
+                <mxCell id="151" style="edgeStyle=none;html=1;" parent="1" source="148" target="149" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="153" style="edgeStyle=none;html=1;" edge="1" parent="1" source="148" target="152">
+                <mxCell id="153" style="edgeStyle=none;html=1;" parent="1" source="148" target="152" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="148" value="if mark == 4" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                <mxCell id="148" value="else if mark == 4" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
                     <mxGeometry x="390" y="280" width="200" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="149" target="144">
+                <mxCell id="158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="149" target="144" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="490" y="540"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="149" value="Percentage = 90" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="149" value="Percentage = 90" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="430" y="400" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="155" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="152" target="154">
+                <mxCell id="155" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="152" target="154" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="152" value="if mark == NE" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                <mxCell id="152" value="else if mark == NE" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
                     <mxGeometry x="620" y="280" width="200" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="154" target="144">
+                <mxCell id="159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="154" target="144" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="720" y="540"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="154" value="Percentage = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="154" value="Percentage = 0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="660" y="400" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>

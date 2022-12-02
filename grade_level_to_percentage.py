@@ -4,7 +4,7 @@
 # This program converts level grades to percentages
 
 
-def convert_level_percent(mark):
+def convert_level_percent(mark: int) -> None:
     # This function converts mark to percentage
 
     if mark == "4+":
