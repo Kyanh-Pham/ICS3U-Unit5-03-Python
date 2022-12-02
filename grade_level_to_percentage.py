@@ -28,7 +28,7 @@ def convert_level_percent(mark: int) -> None:
     elif mark == "1+":
         percentage = 58
     elif mark == "1":
-        percentage = 55
+        percentage = 54
     elif mark == "1-":
         percentage = 51
     elif mark == "R":
