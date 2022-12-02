@@ -37,7 +37,6 @@ def convert_level_percent(mark: int) -> None:
         percentage = 0
     else:
         percentage = -1
-
     return percentage
 
 
